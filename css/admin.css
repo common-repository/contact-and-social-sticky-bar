@@ -1,0 +1,19 @@
+.cassb-bar--preview {
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 200px; }
+
+.cassb_tinymce_editor {
+  max-width: 500px; }
+
+@media all and (max-width: 1000px) {
+  .cassb-bar--preview {
+    padding: 0 100px; } }
+@media all and (max-width: 800px) {
+  .cassb-bar--preview {
+    padding: 0 10px; } }
+
+/*# sourceMappingURL=admin.css.map */

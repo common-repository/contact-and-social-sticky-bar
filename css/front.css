@@ -1,0 +1,20 @@
+.cassb-bar {
+  box-sizing: border-box;
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 999999;
+  padding: 0 200px; }
+
+@media all and (max-width: 1000px) {
+  .cassb-bar {
+    padding: 0 100px; } }
+@media all and (max-width: 800px) {
+  .cassb-bar {
+    padding: 0 10px; } }
+
+/*# sourceMappingURL=front.css.map */
